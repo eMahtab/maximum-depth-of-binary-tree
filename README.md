@@ -75,7 +75,8 @@ class Solution {
    }
 }
 ```
-😳 Very minute 😳
+#### 😳 Very minute 😳
+
 In the iterative approach make sure you only loop through the size of the array before adding child nodes of the next level. So don't do this `for(int i = 0; i < q.size(); i++)` .
 
 # References :
